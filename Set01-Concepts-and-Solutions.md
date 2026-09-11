@@ -87,9 +87,11 @@ Object lies between P(0) and F(15) — consistent with a virtual, magnified imag
 1. Colourless, odourless gas that pops with a flame = hydrogen. A metal reacting with both dilute acid and a base to give H₂ → **X = Aluminium**.
 2. With acid: 2Al + 6HCl → 2AlCl₃ + 3H₂↑
 3. With base: 2Al + 2NaOH + 2H₂O → 2NaAlO₂ + 3H₂↑
-4. Explanation: Aluminium is **amphoteric** — its oxide layer (and the metal itself) can react with both H⁺ ions (acid) and OH⁻ ions (base), which is unusual because most common metals (Zn excluded, Zn is also amphoteric — worth mentioning if he brings it up) are only reactive toward acids, not bases.
+4. Explanation: Aluminium is **amphoteric** — its oxide layer (and the metal itself) can react with both H⁺ ions (acid) and OH⁻ ions (base), which is unusual because most common metals are only reactive toward acids, not bases.
 
 **Final answer:** X = Aluminium; equations as above; explanation = amphoteric nature.
+
+**Note on Zinc as an alternative answer:** Zinc is also amphoteric, and a student may reasonably answer Zn instead of Al. The distinguishing factor the question is actually built on: Aluminium reacts with **NaOH solution at room temperature** (the mild, CBSE-textbook-standard reaction quoted above) — this is the specific reaction taught in the Class 10 syllabus. Zinc *does* react with NaOH to give H₂ (Zn + 2NaOH → Na₂ZnO₂ + H₂↑), but only under **concentrated, hot NaOH**, which is outside the syllabus and not what "NaOH solution" ordinarily implies in a textbook question. So Al is the intended/expected answer, but if he answers Zn with the concentrated-hot-NaOH reasoning, treat that as a strong answer, not a wrong one — it shows he's reasoning correctly about amphoteric behaviour, just applying a fact slightly beyond what was asked. Worth explicitly telling him both metals are amphoteric, and that the "NaOH solution" wording is the intended clue pointing to Al specifically.
 
 ---
 
