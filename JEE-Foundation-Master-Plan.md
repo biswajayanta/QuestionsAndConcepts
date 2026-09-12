@@ -52,9 +52,18 @@ Calculus-heavy Maths, Electrodynamics/Modern Physics, Organic Chemistry, Coordin
 
 | Set | Date started | Subjects covered | Status |
 |---|---|---|---|
-| Set 01 | (today) | Maths (Polynomials+Real Numbers, Trigonometry), Physics (Optics ×2), Chemistry (Reactions, Acids-Bases-Salts), Biology (Life Processes, Control & Coordination), History (Nationalism in Europe, Age of Industrialisation) | Given, awaiting his responses |
+| Set 01 | (started) | Maths (Polynomials+Real Numbers, Trigonometry), Physics (Optics ×2), Chemistry (Reactions, Acids-Bases-Salts), Biology (Life Processes, Control & Coordination), History (Nationalism in Europe, Age of Industrialisation) | **Complete.** All 10 questions eventually correct, several after one revision round. See notes below. |
+| Set 02 | (today) | Maths (Trig repeat/twist, Quadratic Equations — new), Physics (Human Eye — new, Electricity — new), Chemistry (Metals & Non-metals — new, Acids/Bases repeat/twist), Biology (Reproduction — new, Control & Coordination hormones — new), SST (Age of Industrialisation — deeper, Geography Resources & Development — new) | Given, awaiting his responses |
 
 *(This table will grow with every set — once you send me his responses, I'll add the next row and note what we're reinforcing vs. introducing.)*
+
+### What Set 01 taught us about his specific weak spots (feeding into Set 02 and beyond)
+- **Carrying a derived formula through to the numeric step**: on M2 he proved the general formula correctly but initially reverted to a simpler/wrong relation when plugging in numbers. Watch for this pattern generally — he can derive but sometimes doesn't trust/reuse his own result.
+- **cot θ vs tan θ vs sin θ/cos θ confusion**: he briefly substituted sinθ/cosθ values in place of cotθ/tanθ. Worth drilling until automatic.
+- **Opposite vs adjacent side identification**: on P1 he initially assigned the wrong side to the wrong trig ratio (fixed on retry — but worth occasional spot checks).
+- **Overclaiming from limited data (the C2 pattern)**: on the pH/neutralisation question he initially claimed "equal strength" when the data only supported "equal moles of H+/OH- reacted." This is a recurring, important JEE-comprehension trap — re-tested in Set 02 with new numbers.
+- **SST answers tend to state facts without the underlying "economic/political logic"**: H1 and H2 in Set 01 needed a revision round to add real reasoning rather than just listing what happened. Set 02 pushes this further.
+- **Genuine strengths**: he independently found and used the "test all cases" approach on M1 (checking every prime value systematically) and correctly identified both real/virtual cases on P2 (mirror magnification) unprompted — both are strong signs of real conceptual grip, not just procedure-following.
 
 ---
 
